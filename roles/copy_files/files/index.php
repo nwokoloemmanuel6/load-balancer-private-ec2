@@ -36,7 +36,7 @@
             background-color: rgb(61, 46, 46);
             padding: 24px;
             text-align: center;
-            margin-top: 15%;
+            margin-top: 12%;
 
         }
         
@@ -55,7 +55,7 @@
                     <h1>
                         <?php
                         
-                        echo "hostname is:" .gethostname();
+                        echo "hostname is:  " .gethostname();
                         
                         ?>
                         </h1>                        
